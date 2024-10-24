@@ -1,0 +1,12 @@
+C:\work\Learn\Console\FunctionSignGenerator\bin\Debug\net8.0\FunctionSignGenerator.deps.json
+C:\work\Learn\Console\FunctionSignGenerator\bin\Debug\net8.0\FunctionSignGenerator.dll
+C:\work\Learn\Console\FunctionSignGenerator\bin\Debug\net8.0\FunctionSignGenerator.pdb
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\FunctionSignGenerator.csproj.AssemblyReference.cache
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\FunctionSignGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\FunctionSignGenerator.AssemblyInfoInputs.cache
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\FunctionSignGenerator.AssemblyInfo.cs
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\FunctionSignGenerator.csproj.CoreCompileInputs.cache
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\FunctionSignGenerator.dll
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\refint\FunctionSignGenerator.dll
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\FunctionSignGenerator.pdb
+C:\work\Learn\Console\FunctionSignGenerator\obj\Debug\net8.0\ref\FunctionSignGenerator.dll

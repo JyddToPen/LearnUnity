@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\Learn\\Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|c:\\work\\learn\\console\\functionsigngenerator\\processor\\jslibprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|solutionrelative:functionsigngenerator\\processor\\jslibprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|c:\\work\\learn\\console\\functionsigngenerator\\processor\\libconvertprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|solutionrelative:functionsigngenerator\\processor\\libconvertprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|c:\\work\\learn\\console\\functionsigngenerator\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|solutionrelative:functionsigngenerator\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|c:\\work\\learn\\console\\functionsigngenerator\\liblanguagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98027B61-AA16-49A9-9F5D-760752C59966}|FunctionSignGenerator\\FunctionSignGenerator.csproj|solutionrelative:functionsigngenerator\\liblanguagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47969D-F91D-4A08-9BDA-7A42F6742269}|TestConvert\\TestConvert.csproj|c:\\work\\learn\\console\\testconvert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47969D-F91D-4A08-9BDA-7A42F6742269}|TestConvert\\TestConvert.csproj|solutionrelative:testconvert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47969D-F91D-4A08-9BDA-7A42F6742269}|TestConvert\\TestConvert.csproj|c:\\work\\learn\\console\\testconvert\\analysisfiles\\plugindefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47969D-F91D-4A08-9BDA-7A42F6742269}|TestConvert\\TestConvert.csproj|solutionrelative:testconvert\\analysisfiles\\plugindefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47969D-F91D-4A08-9BDA-7A42F6742269}|TestConvert\\TestConvert.csproj|c:\\work\\learn\\console\\testconvert\\testconvert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E47969D-F91D-4A08-9BDA-7A42F6742269}|TestConvert\\TestConvert.csproj|solutionrelative:testconvert\\testconvert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibLanguageType.cs",
+              "DocumentMoniker": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\LibLanguageType.cs",
+              "RelativeDocumentMoniker": "FunctionSignGenerator\\LibLanguageType.cs",
+              "ToolTip": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\LibLanguageType.cs",
+              "RelativeToolTip": "FunctionSignGenerator\\LibLanguageType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:41:00.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PluginDefine.cs",
+              "DocumentMoniker": "C:\\work\\Learn\\Console\\TestConvert\\AnalysisFiles\\PluginDefine.cs",
+              "RelativeDocumentMoniker": "TestConvert\\AnalysisFiles\\PluginDefine.cs",
+              "ToolTip": "C:\\work\\Learn\\Console\\TestConvert\\AnalysisFiles\\PluginDefine.cs",
+              "RelativeToolTip": "TestConvert\\AnalysisFiles\\PluginDefine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:24:59.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestConvert",
+              "DocumentMoniker": "C:\\work\\Learn\\Console\\TestConvert\\TestConvert.csproj",
+              "RelativeDocumentMoniker": "TestConvert\\TestConvert.csproj",
+              "ToolTip": "C:\\work\\Learn\\Console\\TestConvert\\TestConvert.csproj",
+              "RelativeToolTip": "TestConvert\\TestConvert.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T08:21:50.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\Learn\\Console\\TestConvert\\Program.cs",
+              "RelativeDocumentMoniker": "TestConvert\\Program.cs",
+              "ToolTip": "C:\\work\\Learn\\Console\\TestConvert\\Program.cs",
+              "RelativeToolTip": "TestConvert\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:20:43.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsLibProcessor.cs",
+              "DocumentMoniker": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\Processor\\JsLibProcessor.cs",
+              "RelativeDocumentMoniker": "FunctionSignGenerator\\Processor\\JsLibProcessor.cs",
+              "ToolTip": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\Processor\\JsLibProcessor.cs",
+              "RelativeToolTip": "FunctionSignGenerator\\Processor\\JsLibProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:59:42.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibConvertProcessor.cs",
+              "DocumentMoniker": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\Processor\\LibConvertProcessor.cs",
+              "RelativeDocumentMoniker": "FunctionSignGenerator\\Processor\\LibConvertProcessor.cs",
+              "ToolTip": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\Processor\\LibConvertProcessor.cs",
+              "RelativeToolTip": "FunctionSignGenerator\\Processor\\LibConvertProcessor.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:59:01.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\Generator.cs",
+              "RelativeDocumentMoniker": "FunctionSignGenerator\\Generator.cs",
+              "ToolTip": "C:\\work\\Learn\\Console\\FunctionSignGenerator\\Generator.cs",
+              "RelativeToolTip": "FunctionSignGenerator\\Generator.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:47:25.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
